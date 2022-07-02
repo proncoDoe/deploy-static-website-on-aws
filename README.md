@@ -10,7 +10,7 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 ## Url endpoint:
-- https://d3mp2eggmlvjto.cloudfront.net
+- https://d1prywkh2fcpz3.cloudfront.net
 
 ## Project Overview Preview
 
